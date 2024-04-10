@@ -14,7 +14,7 @@ This Python script translates Markdown files from English to Japanese using the 
 2. Install the required Python packages:
 
 ```
-pip install boto3
+pip install requirements.txt
 ```
 
 ## Usage
