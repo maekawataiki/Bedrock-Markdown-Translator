@@ -20,7 +20,7 @@ pip install requirements.txt
 ## Usage
 
 ```
-python script.py input_dir_path output_dir_path
+python translate_markdown.py input_dir_path output_dir_path
 ```
 
 - `input_dir_path`: The path of the directory containing Markdown files to be translated.
